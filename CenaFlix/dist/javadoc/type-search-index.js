@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"view","l":"CenaFlixMainFrame"},{"p":"data","l":"Filme"},{"p":"data","l":"FilmeDao"},{"p":"caractere","l":"LimitaCaracteres"},{"p":"caractere","l":"LimitaCaracteres.TipoEntrada"}];updateSearchResults();
